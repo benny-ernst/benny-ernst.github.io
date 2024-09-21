@@ -1,6 +1,6 @@
 layout: page
 title: benny's domain
-permalink: /home
+permalink: /index
 
 #benny's domain
 this is sick!
